@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sid532001](https://github.com/Sid532001)
 
-- 💬 Ask me about **C,Html5,CSS,Javascript,C++,Data Structures and Algorithms**
+- 💬 Ask me about **C,C++,Html5,CSS,Javascript,Data Structures and Algorithms**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sidhant-suman-037b8718b/**
 
