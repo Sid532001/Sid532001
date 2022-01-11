@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Online File Converter**
+- 👯 I’m looking to collaborate on **Online File Converter Tool**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sid532001](https://github.com/Sid532001)
 
