@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid532001" alt="sid532001" /></a> </p>
 
-- 🔭 I’m currently working on **SidBoardApp**
+- 🔭 I’m currently working on **Message caputuring and filtering**
 
 - 🌱 I’m currently learning **React.js**
 
