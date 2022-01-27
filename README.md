@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg)]
+![MasterHead](https://www.spinutech.com/webres/Image/web-design-development/articles/Web%20Dev-Blog.png)
 
 <h1 align="center">Hi 👋, I'm Sidhant Suman</h1>
 <h3 align="center">A Budding Software Developer from India 😎</h3>
