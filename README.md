@@ -1,10 +1,12 @@
+[![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2019/02/Blog-Types-of-Web-Dev.jpg)]
+
 <h1 align="center">Hi 👋, I'm Sidhant Suman</h1>
 <h3 align="center">A Budding Software Developer from India 😎</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid532001&label=Profile%20views&color=0e75b6&style=flat" alt="sid532001" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid532001" alt="sid532001" /></a> </p> -->
+
 
 - 🔭 I’m currently working on **Message capturing and filtering**
 
@@ -36,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid532001&show_icons=true&locale=en" alt="sid532001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid532001&" alt="sid532001" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid532001" alt="sid532001" /></a> </p>
