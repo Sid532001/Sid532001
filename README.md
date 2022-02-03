@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif)
+<!-- ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif) -->
 
 <h1 align="center">Hi 👋, I'm Sidhant Suman</h1>
 <h3 align="center">A Budding Software Developer from India 😎</h3>
