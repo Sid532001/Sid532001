@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **QT**
+- 👯 I’m looking to collaborate on **React Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sid532001](https://github.com/Sid532001)
 
